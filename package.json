@@ -1,0 +1,19 @@
+{
+  "name": "@sbleonid/ajs-homeworks3",
+  "version": "1.0.0",
+  "description": "**Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SBLeonid/ajs-homeworks3.git"
+  },
+  "author": "sbleonid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SBLeonid/ajs-homeworks3/issues"
+  },
+  "homepage": "https://github.com/SBLeonid/ajs-homeworks3#readme"
+}
